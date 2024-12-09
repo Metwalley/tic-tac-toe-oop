@@ -39,14 +39,21 @@ Includes a basic UML diagram (`uml_diagram.png`) showing the initial class struc
 ## Example Gameplay
 
 **Board Example:**
-
+```
 1 | 2 | 3
+---------
 4 | 5 | 6
+---------
 7 | 8 | 9
+```
 **After moves:**
+```
 X | X | X
+---------
 O | 5 | 6
+---------
 7 | 8 | 9
+```
 **Output:** Player 1 wins!
 
 ## License
