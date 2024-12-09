@@ -9,7 +9,7 @@ A simple implementation of the classic Tic Tac Toe game using Python and Object-
 - User-friendly menus for starting, restarting, or exiting the game.
 
 ## UML Diagram
-Includes a basic UML diagram (`uml_diagram.png`) showing the initial class structure.
+Includes a basic UML diagram (`prototype-uml.drawio`) showing the initial class structure.
 
 ## Example Gameplay
 
